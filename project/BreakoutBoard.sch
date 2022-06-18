@@ -16639,9 +16639,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <label x="12.7" y="154.94" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="J3" gate="-8" pin="1"/>
-<wire x1="228.6" y1="83.82" x2="218.44" y2="83.82" width="0.1524" layer="91"/>
-<label x="218.44" y="83.82" size="1.778" layer="95"/>
+<pinref part="J3" gate="-6" pin="1"/>
+<wire x1="228.6" y1="88.9" x2="218.44" y2="88.9" width="0.1524" layer="91"/>
+<label x="218.44" y="88.9" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GPIO7" class="0">
@@ -16651,9 +16651,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <label x="12.7" y="152.4" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="J3" gate="-6" pin="1"/>
-<wire x1="228.6" y1="88.9" x2="218.44" y2="88.9" width="0.1524" layer="91"/>
-<label x="218.44" y="88.9" size="1.778" layer="95"/>
+<pinref part="J3" gate="-8" pin="1"/>
+<wire x1="228.6" y1="83.82" x2="218.44" y2="83.82" width="0.1524" layer="91"/>
+<label x="218.44" y="83.82" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GPIO48" class="0">
